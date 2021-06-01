@@ -1,0 +1,13 @@
+.post {
+    background-color: aliceblue;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 25px;
+}
+.comment {
+    background-color: #cbcbcb;
+    padding: 25px;
+    margin: 25px;
+    min-height: 50px;
+    border-radius: 25px;
+}
